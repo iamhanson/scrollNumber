@@ -1,7 +1,7 @@
 /**
  * hCounter插件
  * @author Huihan2
- * @email huihan2@iflytek.com
+ * @email 237905173@iflytek.com
  */
 (function($) {
 	var scrollMethods={
